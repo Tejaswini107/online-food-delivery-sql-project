@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pkl
+
+# Ignore virtual environments
+venv/
+
+# Ignore datasets / large outputs
+*.csv
+*.nc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Gradle cache / Java build
+.gradle/
+build/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
