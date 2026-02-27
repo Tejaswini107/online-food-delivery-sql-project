@@ -1,4 +1,5 @@
 Online Food Delivery Business Intelligence & Performance Analysis (SQL)
+
 📌 Project Overview
 
 This project focuses on performing Business Intelligence and Performance Analysis for an online food delivery platform using SQL. The analysis covers customer behavior, restaurant performance, revenue trends, delivery efficiency, and product-level insights to support data-driven business decision making.
