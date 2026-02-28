@@ -1,4 +1,4 @@
-Online Food Delivery Business Intelligence & Performance Analysis (SQL)
+Online Food Delivery Business Analytics System
 
 📌 Project Overview
 
